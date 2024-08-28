@@ -10,8 +10,8 @@ public class ModItems {
     public static final ItemEntry<Item> RED_LAMP = SignalCN.REGISTRATE.item("red_lamp", Item::new)
             .properties(p -> p.stacksTo(64))  // Customize item properties
             .register();
+
     public static void register() {
-        // This method is used to initialize static references.
-        // No further action is needed here since Registrate automatically handles registration.
+
     }
 }

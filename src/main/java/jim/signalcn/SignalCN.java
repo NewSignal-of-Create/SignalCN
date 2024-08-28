@@ -32,6 +32,7 @@ public class SignalCN {
         ModItems.register();
         ModBlocks.register();
         ModCreativeModeTabs.register(modEventBus);
+        REGISTRATE.registerEventListeners(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
