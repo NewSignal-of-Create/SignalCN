@@ -1,0 +1,8 @@
+{
+  "item.signalcn.red_lamp": "Red Signal Lamp",
+
+  "block.signalcn.entry_signal_machine": "Entry Signal Machine",
+
+  "creativetab.signal_component_tab": "SCN: Signal Components",
+  "creativetab.signal_machine_tab": "SCN: Signal Machines"
+}

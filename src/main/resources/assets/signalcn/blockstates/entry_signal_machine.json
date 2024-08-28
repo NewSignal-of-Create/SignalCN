@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "signalcn:block/entry_signal_machine"
+    }
+  }
+}
